@@ -274,6 +274,7 @@ nav a.active {
 #portfolio .portfolio-item {
     right: 0;
     margin: 0 0 15px;
+    background: rgb(224, 224, 224);
 }
 
 #portfolio .portfolio-item .portfolio-link {
@@ -486,6 +487,7 @@ footer .footer-below {
 
 .portfolio-modal .modal-content img {
     margin-bottom: 30px;
+    width: 55%;
 }
 
 .portfolio-modal .modal-content .item-details {
@@ -525,4 +527,48 @@ footer .footer-below {
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
+}
+
+.reggg{
+    color: #b7a34e;
+}
+
+.ups{
+    color: #2c3138;
+}
+
+.tabbb{
+    color: #3d6272;
+}
+
+.suped{
+    color: #8c5242;
+}
+
+.subes{
+    color: #564e4f;
+}
+
+.hhers{
+    color: #6D5689;
+}
+
+.plants{
+    color: #555552;
+}
+
+.transx{
+    color: #abb358;
+}
+
+.solecito{
+    color: #4C839E;
+}
+
+.matte{
+    color: #6d2f2f;
+}
+
+.lucy{
+    color: #323d49;
 }
